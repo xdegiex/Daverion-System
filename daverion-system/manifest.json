@@ -1,0 +1,25 @@
+{
+  "name": "Daverion System",
+  "short_name": "Daverion",
+  "description": "Zarządzanie zakładem produkcyjnym – MES, QHSE, Lean",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#030508",
+  "theme_color": "#00e5ff",
+  "lang": "pl",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
